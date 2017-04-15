@@ -28,5 +28,5 @@ The tool will write some log messages to the console, but it also creates a dedi
 
 * https://www.visualstudio.com/en-us/docs/work/customize/configure-features-after-upgrade#program-updates
 
-* Features4tfs: https://features4tfs.codeplex.com/SourceControl/latest#features4tfs.2015/Program.cs
+* Features4tfs: https://features4tfs.codeplex.com/
 
