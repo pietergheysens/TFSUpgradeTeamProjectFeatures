@@ -1,7 +1,7 @@
 # TFSUpgradeTeamProjectFeatures
 Tool to upgrade existing/old Team Projects to latest features
 
-Used for upgrading Team Projects after a migration to TFS 2017 Update 1. Instead of running the Configure Features wizard one by one for many different Team Projects spread across multiple Team Project Collections, this tool allows to scan all available Team Projects and to apply new features of the recommended Team Project process template.
+Used for upgrading Team Projects after a migration to **TFS 2017 Update 1**. Instead of running the Configure Features wizard one by one for many different Team Projects spread across multiple Team Project Collections, this tool allows to scan all available Team Projects and to apply new features of the recommended Team Project process template.
 
 The reposistory contains one solution with a console application project (created with Visual Studio 2017).
 
