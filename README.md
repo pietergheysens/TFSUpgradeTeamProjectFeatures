@@ -18,7 +18,7 @@ The config file contains three mandatory configuration settings:
 
 ## How to run?
 
-Copy the .exe and exe.config file to the bin folder of the TFS Application Tier server (C:\Program Files\Microsoft Team Foundation Server 11.0\Application Tier\Web Services\bin) and run it from the command line. Be sure to use this tool during your trial-upgrade before applying this into a production environment.
+Copy the .exe and exe.config file to the bin folder of the TFS Application Tier server (C:\Program Files\Microsoft Team Foundation Server 15.0\Application Tier\Web Services\bin) and run it from the command line. Be sure to use this tool during your trial-upgrade before applying this into a production environment.
 
 ## LogFiles?
 
